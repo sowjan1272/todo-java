@@ -42,20 +42,3 @@ The project allows users to manage tasks efficiently by adding, viewing, updatin
 
 ---
 
-## 📂 Project Structure
-todo-java
-│
-├── src/main/java/com/example/todo
-│ ├── controller
-│ ├── model
-│ ├── repository
-│ ├── service
-│ └── TodoApplication.java
-│
-├── src/main/resources
-│ ├── application.properties
-│ └── templates
-│
-├── pom.xml
-└── README.md
-
